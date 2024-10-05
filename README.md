@@ -1,6 +1,6 @@
 # install Cursor IDE on linux 
 
-This Python script is used to automatically download, update and install the Cursor editor on Linux systems.
+This script is used to automatically download, update and install the Cursor editor on Linux systems.
 
 Check for and download the latest version of Cursor
 Manage directories and installation files
@@ -17,3 +17,9 @@ The script saves the files in the specified directory, sets the appropriate perm
 ```shell
 git clone https://github.com/karimalik/installCuursor.git
 ```
+2 - Enter the script directory and run the installation script
+
+```shell
+cd cursor && python3 install.py
+```
+

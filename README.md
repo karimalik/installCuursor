@@ -17,9 +17,9 @@ The script saves the files in the specified directory, sets the appropriate perm
 ```shell
 git clone https://github.com/karimalik/installCuursor.git
 ```
-2 - Enter the script directory and run the installation script
+2 - Run the installation script
 
 ```shell
-cd cursor && python3 install.py
+ python3 install.py
 ```
 
